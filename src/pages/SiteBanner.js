@@ -3,7 +3,7 @@ import React from 'react';
 import { withRouter } from 'react-router-dom';
 
 const SiteBanner = () => {
-  const siteName = "FileUpload";
+  const siteName = "Smooth File Uploads";
   const siteMotto = "Smooth File Uploads web app.";
 
   return (
